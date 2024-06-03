@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MindboxIT\\MindboxIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC5E112-3516-4BA1-B56E-87C737D512C6}|MindboxIT\\MindboxIT.csproj|d:\\projects\\mindboxit\\mindboxit\\mindboxit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC5E112-3516-4BA1-B56E-87C737D512C6}|MindboxIT\\MindboxIT.csproj|solutionrelative:mindboxit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2772F46D-09C1-4E24-9D4E-0DDAA525D30D}|Geometry\\Geometry.csproj|d:\\projects\\mindboxit\\mindboxit\\geometry\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2772F46D-09C1-4E24-9D4E-0DDAA525D30D}|Geometry\\Geometry.csproj|solutionrelative:geometry\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BA00BE-20B5-4B42-93BC-9F9C284FD574}|TestGeometry\\TestGeometry.csproj|d:\\projects\\mindboxit\\mindboxit\\testgeometry\\testshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA00BE-20B5-4B42-93BC-9F9C284FD574}|TestGeometry\\TestGeometry.csproj|solutionrelative:testgeometry\\testshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MindboxIT\\MindboxIT\\MindboxIT\\Program.cs",
+              "RelativeDocumentMoniker": "MindboxIT\\Program.cs",
+              "ToolTip": "D:\\Projects\\MindboxIT\\MindboxIT\\MindboxIT\\Program.cs",
+              "RelativeToolTip": "MindboxIT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:02:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestShapes.cs",
+              "DocumentMoniker": "D:\\Projects\\MindboxIT\\MindboxIT\\TestGeometry\\TestShapes.cs",
+              "RelativeDocumentMoniker": "TestGeometry\\TestShapes.cs",
+              "ToolTip": "D:\\Projects\\MindboxIT\\MindboxIT\\TestGeometry\\TestShapes.cs",
+              "RelativeToolTip": "TestGeometry\\TestShapes.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:53:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "D:\\Projects\\MindboxIT\\MindboxIT\\Geometry\\Shapes.cs",
+              "RelativeDocumentMoniker": "Geometry\\Shapes.cs",
+              "ToolTip": "D:\\Projects\\MindboxIT\\MindboxIT\\Geometry\\Shapes.cs",
+              "RelativeToolTip": "Geometry\\Shapes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:53:27.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

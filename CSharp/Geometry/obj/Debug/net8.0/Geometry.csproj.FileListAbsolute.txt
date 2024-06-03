@@ -1,0 +1,11 @@
+D:\Projects\MindboxIT\MindboxIT\Geometry\bin\Debug\net8.0\Geometry.deps.json
+D:\Projects\MindboxIT\MindboxIT\Geometry\bin\Debug\net8.0\Geometry.dll
+D:\Projects\MindboxIT\MindboxIT\Geometry\bin\Debug\net8.0\Geometry.pdb
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfoInputs.cache
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfo.cs
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.csproj.CoreCompileInputs.cache
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.dll
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\refint\Geometry.dll
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\Geometry.pdb
+D:\Projects\MindboxIT\MindboxIT\Geometry\obj\Debug\net8.0\ref\Geometry.dll
